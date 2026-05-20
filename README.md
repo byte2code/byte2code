@@ -1,44 +1,65 @@
 # Professional Introduction
 
-Bipin Verma is a senior backend engineer with 4-5 years of experience building Java-based backend systems, REST APIs, and service-oriented applications. Strong focus on the Java ecosystem, Spring Boot, Spring Security, persistence design, microservices, distributed service communication, event-driven architecture principles, and production-minded API engineering.
+Bipin Verma is a senior backend engineer with 4+ years of experience building Java-based backend systems, scalable microservices, and distributed service architectures. Strong focus on the Java ecosystem, Spring Boot, event-driven architecture, Kafka/RabbitMQ messaging, high-concurrency API workflows, transactional consistency, and production-minded backend engineering.
 
-My work centers on designing backend systems that are maintainable, secure, observable, and ready to evolve across multiple service boundaries. The public repositories here reflect hands-on work across domain APIs, service integrations, authentication flows, Eureka-based discovery, Feign/RestTemplate communication, Hystrix fallback handling, and data-driven Spring applications.
+My work centers on designing backend systems that are maintainable, resilient, observable, and ready to evolve across multiple service boundaries. Professional experience includes payment workflows, asynchronous ingestion systems, caching layers, distributed locking, idempotency handling, circuit breakers, retries, bulkheads, distributed tracing, and performance optimization for high-volume backend APIs.
+
+The public repositories here reflect hands-on work across domain APIs, service integrations, authentication flows, Eureka-based discovery, Feign/RestTemplate communication, Hystrix fallback handling, and data-driven Spring applications.
 
 ## Engineering Focus
 
 - Distributed service design with Spring Boot and Spring Cloud
+- Event-driven backend workflows using Kafka and RabbitMQ
 - Microservice communication using OpenFeign and RestTemplate
-- Backend scalability through modular service boundaries
+- Backend scalability through modular service boundaries and asynchronous processing
+- High-concurrency transaction handling for checkout, payment, and wallet-style workflows
 - API reliability, validation, exception handling, and fallback paths
+- Redis-based distributed locking and idempotency-oriented API design
+- Circuit breaker, retry, and bulkhead patterns for resilient downstream communication
 - Transaction consistency with Spring Data JPA and Hibernate
 - Inventory, order, subscription, billing, and review-service coordination
 - Security-focused backend development with JWT, OAuth2, Keycloak, and role-based access
-- Operational visibility using Spring Boot Actuator and Hystrix Dashboard
-- Database-backed application design with MySQL, H2, entity relationships, and query patterns
-- System reliability through circuit breaker and service discovery patterns
+- Operational visibility using actuator endpoints, centralized logging, monitoring, and tracing
+- Database-backed application design with MySQL, MSSQL, OracleDB, H2, entity relationships, and query patterns
+- System reliability through service discovery, failure isolation, and graceful degradation patterns
 
 ## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Maven |
-| Microservices | Spring Cloud, Eureka Client/Server, OpenFeign, RestTemplate, Hystrix |
+| Backend | Java 8-17, Spring Boot, Spring MVC, Spring WebFlux, Spring Data JPA, Hibernate, MyBatis, REST APIs, WebSockets, Maven |
+| Microservices | Spring Cloud, Eureka Client/Server, OpenFeign, RestTemplate, Hystrix, Resilience4j |
 | Security | Spring Security, JWT, OAuth2, Keycloak, Basic Auth, Role-Based Access Control |
-| Databases & Persistence | MySQL, H2, JPA Entity Mapping, JPQL, Native Queries, Derived Queries |
-| Cloud & DevOps | GitHub, Git, Maven, Maven Wrapper, service registry based local microservice workflows |
-| Monitoring & Observability | Spring Boot Actuator, Hystrix Dashboard, Health Endpoints |
+| Messaging & Streaming | Kafka, RabbitMQ, Amazon SQS |
+| Databases & Caching | MySQL, MSSQL, OracleDB, H2, Redis, JPA Entity Mapping, JPQL, Native Queries, Derived Queries |
+| Cloud & DevOps | AWS, Docker, Jenkins, GitHub, Git, Maven, Maven Wrapper, Linux, service registry based local microservice workflows |
+| Monitoring & Observability | Spring Boot Actuator, Hystrix Dashboard, Health Endpoints, Centralized Logging, Distributed Tracing, SonarQube |
 | Tools | Git, GitHub, Maven Wrapper, Postman-style API workflows |
 
 ## Backend Concepts & System Design Knowledge
 
 - Microservice decomposition
 - Service discovery
+- Event-driven architecture
+- Kafka-based asynchronous processing
+- RabbitMQ-backed message-driven workflows
+- Queue-based decoupling with Amazon SQS
 - Declarative service clients
 - Circuit breaker pattern
+- Retry mechanisms
+- Bulkhead isolation
 - Fallback handling
+- Idempotency
+- Distributed locking
+- Redis-backed concurrency control
 - Stateless authentication
 - Role-based authorization
 - Transaction management
+- Transactional consistency across distributed service workflows
+- High-concurrency request handling
+- Reactive backend programming with Spring WebFlux
+- WebSocket-based real-time communication
+- Caching strategy design for read-heavy APIs
 - Entity relationship modeling
 - REST API versioning and resource design
 - Layered controller-service-repository architecture
@@ -102,9 +123,11 @@ Banking backend covering customers, accounts, cards, KYC, and investments with J
 - Fault tolerance and graceful degradation
 - API reliability and predictable failure behavior
 - Distributed transactions and consistency boundaries
-- Event-driven architecture and asynchronous workflow design
+- Event-driven architecture using Kafka, RabbitMQ, and queue-based integrations
+- Asynchronous workflow design for ingestion, notification, and background processing systems
+- Distributed locking, idempotency, and retry-safe API design
 - Secure identity and access patterns across backend services
-- Observability, service health, and runtime diagnostics
+- Observability, distributed tracing, service health, and runtime diagnostics
 - Performance engineering in Java and Spring-based systems
 
 ## Currently Exploring
@@ -114,6 +137,7 @@ Banking backend covering customers, accounts, cards, KYC, and investments with J
 - Observability patterns for Spring Boot services
 - Distributed transaction patterns and consistency trade-offs
 - Scalability patterns for service-to-service systems
+- Kafka/RabbitMQ reliability patterns for event-driven systems
 - Performance engineering for Java APIs
 
 ## Connect Section
