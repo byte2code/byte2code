@@ -145,4 +145,5 @@ Banking backend covering customers, accounts, cards, KYC, and investments with J
 - LinkedIn: [linkedin.com/in/bipin-verma-iiits](https://www.linkedin.com/in/bipin-verma-iiits/)
 - Email: [dev.vermabipin@gmail.com](mailto:dev.vermabipin@gmail.com)
 - LeetCode: [leetcode.com/u/byte2code](https://leetcode.com/u/byte2code/)
-- Portfolio: `Coming soon`
+
+![Profile Views](https://komarev.com/ghpvc/?username=byte2code&style=flat-square&color=475569)
