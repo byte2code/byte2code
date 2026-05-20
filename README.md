@@ -107,16 +107,6 @@ Banking backend covering customers, accounts, cards, KYC, and investments with J
 - Observability, service health, and runtime diagnostics
 - Performance engineering in Java and Spring-based systems
 
-## Metrics & Activity
-
-![Profile views](https://komarev.com/ghpvc/?username=byte2code&style=flat&color=555555)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byte2code&show_icons=true&hide_title=true&hide_border=true&theme=default)
-
-![GitHub streak](https://streak-stats.demolab.com?user=byte2code&hide_border=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte2code&layout=compact&hide_border=true&theme=default)
-
 ## Currently Exploring
 
 - Kubernetes fundamentals for backend service deployment
